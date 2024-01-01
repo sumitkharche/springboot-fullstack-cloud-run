@@ -1,2 +1,3 @@
-# springboot-fullstack-cloud-run
-A starter template for Spring Boot full stack setup to run on Google Cloud Run. 
+# Wiseland Spring Boot Fullstack Template for Google Cloud Run. 
+
+Use this template to run your spring boot app on Google Clould Run. This setup uses Google SQL (Mysql), Freemarker Templates and Twitter Bootstrap. 
